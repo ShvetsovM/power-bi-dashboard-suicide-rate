@@ -1,2 +1,2 @@
-# power-bi-dashboard-suicide-rate
+# Дашборд 
 Suicide rate dashboard
